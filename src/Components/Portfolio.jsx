@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/portfolio.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "laptop and desktop computer showing code and portfolios";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "YPay Financial Services",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Create a modern and responsive website of YPay (A Fintech based startup).",
+    url: "https://ypayfinancial.com/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "ConnectHear Sign Language interpretation",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Creating android and ios app for a sign language interpretation startup.",
+    url: "https://play.google.com/store/apps/details?id=com.connecthear.customer&pli=1",
   },
   {
-    title: "My Resume Site",
+    title: "Syed Hamza Hoda",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Created another personal portfolio website on react",
+    url: "https://syedhamzahoda.me",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Webserse",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Created a modern and responsive website for a local software house",
+    url: "https://zain-pasha.web.app/",
   },
 ];
 
