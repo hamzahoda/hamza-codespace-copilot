@@ -55,7 +55,7 @@ const projectList = [
     url: "https://zain-pasha.web.app/",
   },
 ];
-git config --global  pull.ff true
+
 const Portfolio = () => {
   return (
     <section className="padding" id="portfolio">
